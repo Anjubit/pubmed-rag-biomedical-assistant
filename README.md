@@ -25,7 +25,7 @@ PubMed → embeddings → ChromaDB → local Ollama LLM → PMID-grounded answer
 - `scripts/03_retrieve.py` — tests retrieval
 - `scripts/04_rag_answer.py` — generates one final RAG answer
 - `scripts/05_mutiple_modeltest.py` — compares multiple local models
-- `scripts/06_eval_models.py` — evaluates models across multiple questions
+- `scripts/07_eval_models.py` — evaluates models across multiple questions
 
 ## Best current model
 
