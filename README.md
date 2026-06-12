@@ -41,4 +41,4 @@ The system identified SNCA, LRRK2, VPS35, PRKN, PINK1, DJ1/PARK7, and GBA/GBA1 a
 
 ## Current status
 
-Working local RAG prototype completed. Next steps are hybrid BM25 + dense retrieval, GWAS interpretation mode, and a simple Streamlit interface
+Working local RAG prototype completed. Next steps are hybrid BM25 + dense retrieval.
