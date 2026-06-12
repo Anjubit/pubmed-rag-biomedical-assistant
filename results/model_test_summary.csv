@@ -1,0 +1,8 @@
+model,status,runtime_seconds,output_file
+jsk/bio-mistral:latest,success,13.78,results/rag_answer_jsk_bio-mistral_latest.txt
+qwen3:4b,success,32.78,results/rag_answer_qwen3_4b.txt
+llama3.2:latest,success,9.48,results/rag_answer_llama3_2_latest.txt
+gemma3:4b,success,12.18,results/rag_answer_gemma3_4b.txt
+deepseek-r1:8b,success,22.39,results/rag_answer_deepseek-r1_8b.txt
+qwen2.5:7b,success,22.74,results/rag_answer_qwen2_5_7b.txt
+shuai/Bio-Medical-Llama:latest,failed,60.06,results/rag_answer_shuai_Bio-Medical-Llama_latest.txt

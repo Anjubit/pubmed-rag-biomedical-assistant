@@ -1,0 +1,14 @@
+Summary:
+Several genes are associated with an increased risk of Parkinson’s disease, including SNCA, LRRK2, VPS35, PRKN, PINK1, DJ1, and GBA. Additionally, genome-wide studies have identified numerous loci associated with PD risk. Variants in the PRKN gene are frequently associated with PD, and recent research highlights the role of the dopamine pathway and its associated genes (GBA1, LRRK2) in the development of LID.  Genetic risk scores incorporating multiple variants are increasingly utilized to predict PD risk and progression.
+
+Evidence:
+- PMID: 35248195
+- PMID: 33020390
+- PMID: 38173558
+- PMID: 38368938
+- PMID: 38263313
+- PMID: 36446806
+- PMID: 37790572
+- PMID: 39132902
+- PMID: 37398408
+- PMID: 32967142

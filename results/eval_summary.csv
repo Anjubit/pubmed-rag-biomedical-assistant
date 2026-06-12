@@ -1,0 +1,31 @@
+question_id,model,status,runtime_seconds,term_score,pmid_score,term_hits,pmid_hits,answer_file
+pd_genes,qwen2.5:7b,success,13.37,1.0,0.5,SNCA; LRRK2; VPS35; PRKN; PINK1; DJ1; GBA,35248195,results/eval_answers/pd_genes_qwen2_5_7b.txt
+pd_gwas_use,qwen2.5:7b,success,15.96,0.8,NA,GWAS; risk; loci; genetic,,results/eval_answers/pd_gwas_use_qwen2_5_7b.txt
+gba1_pd,qwen2.5:7b,success,18.44,1.0,NA,GBA1; risk; Parkinson,,results/eval_answers/gba1_pd_qwen2_5_7b.txt
+prs_pd,qwen2.5:7b,success,16.61,1.0,NA,polygenic risk score; PRS; risk,,results/eval_answers/prs_pd_qwen2_5_7b.txt
+snca_pd,qwen2.5:7b,success,16.94,1.0,NA,SNCA; Parkinson; risk,,results/eval_answers/snca_pd_qwen2_5_7b.txt
+pd_genes,qwen3:4b,success,21.02,1.0,1.0,SNCA; LRRK2; VPS35; PRKN; PINK1; DJ1; GBA,35248195; 33020390,results/eval_answers/pd_genes_qwen3_4b.txt
+pd_gwas_use,qwen3:4b,success,21.39,0.6,NA,GWAS; risk; loci,,results/eval_answers/pd_gwas_use_qwen3_4b.txt
+gba1_pd,qwen3:4b,success,22.87,1.0,NA,GBA1; risk; Parkinson,,results/eval_answers/gba1_pd_qwen3_4b.txt
+prs_pd,qwen3:4b,success,19.85,1.0,NA,polygenic risk score; PRS; risk,,results/eval_answers/prs_pd_qwen3_4b.txt
+snca_pd,qwen3:4b,success,18.05,1.0,NA,SNCA; Parkinson; risk,,results/eval_answers/snca_pd_qwen3_4b.txt
+pd_genes,jsk/bio-mistral:latest,success,24.9,1.0,0.0,SNCA; LRRK2; VPS35; PRKN; PINK1; DJ1; GBA,,results/eval_answers/pd_genes_jsk_bio-mistral_latest.txt
+pd_gwas_use,jsk/bio-mistral:latest,success,14.05,0.2,NA,GWAS,,results/eval_answers/pd_gwas_use_jsk_bio-mistral_latest.txt
+gba1_pd,jsk/bio-mistral:latest,success,17.17,0.0,NA,,,results/eval_answers/gba1_pd_jsk_bio-mistral_latest.txt
+prs_pd,jsk/bio-mistral:latest,success,14.82,1.0,NA,polygenic risk score; PRS; risk,,results/eval_answers/prs_pd_jsk_bio-mistral_latest.txt
+snca_pd,jsk/bio-mistral:latest,success,9.55,0.0,NA,,,results/eval_answers/snca_pd_jsk_bio-mistral_latest.txt
+pd_genes,llama3.2:latest,success,8.35,1.0,0.0,SNCA; LRRK2; VPS35; PRKN; PINK1; DJ1; GBA,,results/eval_answers/pd_genes_llama3_2_latest.txt
+pd_gwas_use,llama3.2:latest,success,11.65,0.8,NA,GWAS; risk; loci; genetic,,results/eval_answers/pd_gwas_use_llama3_2_latest.txt
+gba1_pd,llama3.2:latest,success,8.02,1.0,NA,GBA1; risk; Parkinson,,results/eval_answers/gba1_pd_llama3_2_latest.txt
+prs_pd,llama3.2:latest,success,6.3,1.0,NA,polygenic risk score; PRS; risk,,results/eval_answers/prs_pd_llama3_2_latest.txt
+snca_pd,llama3.2:latest,success,6.84,1.0,NA,SNCA; Parkinson; risk,,results/eval_answers/snca_pd_llama3_2_latest.txt
+pd_genes,gemma3:4b,success,12.62,1.0,1.0,SNCA; LRRK2; VPS35; PRKN; PINK1; DJ1; GBA,35248195; 33020390,results/eval_answers/pd_genes_gemma3_4b.txt
+pd_gwas_use,gemma3:4b,success,18.62,0.8,NA,GWAS; risk; loci; genetic,,results/eval_answers/pd_gwas_use_gemma3_4b.txt
+gba1_pd,gemma3:4b,success,12.95,1.0,NA,GBA1; risk; Parkinson,,results/eval_answers/gba1_pd_gemma3_4b.txt
+prs_pd,gemma3:4b,success,11.06,1.0,NA,polygenic risk score; PRS; risk,,results/eval_answers/prs_pd_gemma3_4b.txt
+snca_pd,gemma3:4b,success,7.99,1.0,NA,SNCA; Parkinson; risk,,results/eval_answers/snca_pd_gemma3_4b.txt
+pd_genes,deepseek-r1:8b,success,25.07,1.0,1.0,SNCA; LRRK2; VPS35; PRKN; PINK1; DJ1; GBA,35248195; 33020390,results/eval_answers/pd_genes_deepseek-r1_8b.txt
+pd_gwas_use,deepseek-r1:8b,success,24.77,0.8,NA,GWAS; risk; loci; genetic,,results/eval_answers/pd_gwas_use_deepseek-r1_8b.txt
+gba1_pd,deepseek-r1:8b,success,25.75,1.0,NA,GBA1; risk; Parkinson,,results/eval_answers/gba1_pd_deepseek-r1_8b.txt
+prs_pd,deepseek-r1:8b,success,20.98,1.0,NA,polygenic risk score; PRS; risk,,results/eval_answers/prs_pd_deepseek-r1_8b.txt
+snca_pd,deepseek-r1:8b,success,16.06,1.0,NA,SNCA; Parkinson; risk,,results/eval_answers/snca_pd_deepseek-r1_8b.txt

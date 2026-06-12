@@ -1,0 +1,5 @@
+pandas
+requests
+chromadb
+sentence-transformers
+ollama
